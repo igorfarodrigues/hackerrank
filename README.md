@@ -14,13 +14,19 @@
 
 <p>Os exercícios variam em dificuldade, começando com problemas mais simples com um <code>Hello World</code> e progredindo para desafios mais complexos à medida que os dias avançam.</p> 
 
-<p>Cada desafio diário é projetado para ser concluído em um período relativamente curto, incentivando a consistência e o hábito de programação diária. Além disso, o HackerRank fornece uma plataforma de execução de código integrada, permitindo que os participantes testem suas soluções em várias linguagens de programação <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code"><strong>aqui</strong>.</p>
+<p>Cada desafio diário é projetado para ser concluído num período relativamente curto, incentivando a consistência e o hábito de programação diária. Além disso, o HackerRank fornece uma plataforma de execução de código integrada, permitindo que os participantes testem suas soluções em várias linguagens de programação <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code"><strong>aqui</strong>.<p/>
+
+<br>
 
 ### O que você vai aprender?
 
-Você terá a oportunidade de aprender e mergulhar em tópicos como estruturas de dados, algoritmos, manipulação de strings, matemática computacional e muito mais. O desafio não apenas ajuda a desenvolver habilidades técnicas, mas também incentiva a resiliência, a resolução de problemas e a criatividade.
+ Você terá a oportunidade de aprender e mergulhar em tópicos como estruturas de dados, algoritmos, manipulação de strings, matemática computacional e muito mais. O desafio não apenas ajuda a desenvolver habilidades técnicas, mas também incentiva a resiliência, a resolução de problemas e a criatividade.  
 
-Por fim, o código aqui trabalhado será nas seguintes linguagens: `Java`, `Go / Golang` `Python` e `JS / JavaScript`; começarei por `Java` e conforme for concluindo este desafio acresentarei as demais linguagens. um outro ponto importante, é conhecer um pouco de lógica de programação, só para não ficar perdido, recomendo fortimente os vídeos do Gustavo Guanabara ([Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)), desta forma acredito que ajudará muitos devs e futuros(as) engenheiros(as) de _software_.
+ Por fim, o código aqui trabalhado será nas seguintes linguagens: `Java`, `Go / Golang` `Python` e `JS / JavaScript`; começarei por `Java` e conforme for a concluir este desafio acresentarei as demais linguagens.
+ 
+ Outro ponto importante, é conhecer um pouco de lógica de programação, só para não ficar perdido, recomendo fortimente os vídeos do Gustavo Guanabara sobre [Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV).
+
+ Desta forma acredito que ajudará muitos devs e futuros(as) engenheiros(as) de _software_.
 
 ### Desafio 30 dias
 
@@ -38,7 +44,7 @@ Qualquer contribuição é muito bem-vinda. :pray: Você pode contribuir da segu
 
 Se as informações deste repositório foram úteis para você de alguma forma, dê uma estrela 🌟, tassim outras pessoas poderão encontrá-las e se beneficiar também! Juntos podemos crescer e tornar nossa comunidade melhor! :smiley:
 
-Você tem alguma sugestão sobre como podemos melhorar este projeto em geral? Nos informe! Adoraríamos ouvir seu feedback!
+Você tem alguma sugestão sobre como podemos melhorar este projeto em geral? Nos informe! Adoraríamos ouvir o seu feedback!
 
 ---
 
