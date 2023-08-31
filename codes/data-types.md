@@ -13,7 +13,7 @@ Hoje estamos discutindo tipos de dados. Veja o que são tipos de dados:
 * [Tipos de dados em Python](https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python);
 * [Tipos de dados em JS](https://ricardo-reis.medium.com/tipos-de-dados-javascript-a1f6f498a7d4);
 
-**Tarefa**
+**Tarefa:**
 Complete o código no editor abaixo. As variáveis, i, d e s já estão declarados e inicializados para você. Você deve:
 
 1. Declarar 03 variáveis: uma do tipo int, uma do tipo double e uma do tipo String. 
@@ -52,7 +52,7 @@ em seguida, as duas strings concatenadas na terceira linha
      8.0
      HackerRank is the best place to learn and practice coding!
 ```
-
+<br>
 
 #### Programa: Data Types (Tipos de dados)
 
