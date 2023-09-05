@@ -1,4 +1,4 @@
-# Dia 01 - Data types (Tipos de dados)
+# Dia 02 - Operators (Operadores)
 
 ---
 
