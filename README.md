@@ -31,7 +31,12 @@
 ### Desafio 30 dias
 
 - [Dia 0: Olá, Mundo.](codes/hello-world.md)
-
+- [Dia 1: Tipo de dados.](codes/data-types.md)
+- [Dia 2: Operadores.](codes/operators.md)
+- [Dia 3: Introdução a condicionais.](codes/intro-conditional.md)
+- [Dia 4: Classe vs. Instância.](codes/class-vs-instance.md)
+- [Dia 5: Laços.](codes/loops.md)
+- [Dia 6: Vamos revisar.](codes/lets-review.md)
 
 
 ## Contribution
